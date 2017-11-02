@@ -53,7 +53,7 @@ import org.snmp4j.version.VersionInfo;
  * @since 1.2
  */
 public class AgentConfigManager implements Runnable {
-
+	//haha
   private static final LogAdapter logger =
       LogFactory.getLogger(AgentConfigManager.class);
 
